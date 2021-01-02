@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <title>Interview Practice</title>
+  <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.18.1/build/cssreset/cssreset-min.css">
+  <link rel="stylesheet" href="css/styles.css">
+  <script src="https://kit.fontawesome.com/eef2934420.js" crossorigin="anonymous"></script>
+</head>
+<body>
+  <div class="wrapper">
+    <header>
+      <h1 ><a href="index.html" class="far fa-user-circle"> Interview practice</a></h1>
+      <ul class="header-lists">
+        <li><a href="index.html">HOME</a></li>
+        <li><a href="practice.html">面接練習</a></li>
+        <li><a href="lists.html">質問一覧</a></li>
+      </ul>
+    </header>
+    <div class="main-box">
+      <div class="img-box">
+        <img src="images/textnone.png" id="none-image" class="hidden">
+        <img src="images/textnext.png" id="next-image" class="hidden">
+        <img id="main-image">
+      </div>
+      <img src="images/interview.png" width="300px">
+    </div>
+    <div class="timer-box">
+      <div id="timer">00分00秒</div>
+      <div class="controls">
+        <div class="btn" id="start">回答する</div>
+        <div class="btn" id="stop">回答終了</div>
+        <div class="btn" id="reset">やり直す</div>
+        <div class="btn" id="prev">前の質問</div>
+        <div class="btn" id="next">次の質問</div>
+      </div>
+    </div>
+    <footer>
+      <h2 class="far fa-user-circle"> Interview practice</h2>
+    </footer>
+  </div>
+  <script src="js/main.js"></script>
+</body>
+</html>

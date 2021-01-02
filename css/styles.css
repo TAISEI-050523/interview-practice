@@ -1,0 +1,204 @@
+* {
+  box-sizing: border-box;
+}
+
+.wrapper {
+  background-color: silver;
+}
+
+/* ヘッダー */
+header {
+  width: 100%;
+  height: 120px;
+  background-color: rgb(12, 12, 12);
+  padding: 10px 10px 5px;
+  margin-bottom: 50px;
+}
+
+header > h1 > a {
+  height: 50px;
+  color: #FFF;
+  font-size: 30px;
+  text-decoration: none;
+  padding: 15px 5px;
+  margin-left: 30px;
+}
+
+.header-lists {
+  width: 300px;
+  margin: 20px 0 0 30px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.header-lists > li > a {
+  color: #FFF;
+  font-size: 16px;
+  text-decoration: none;
+}
+
+.header-lists > li:hover {
+  opacity: 0.6;
+}
+
+/* トップページ */
+.top-contents {
+  padding: 30px 100px;
+  text-align: center;
+}
+
+.top-contents > h1 {
+  font-size: 30px;
+}
+
+.miss-point {
+  font-size: 20px;
+}
+
+.long-talk-image {
+  display: flex;
+  justify-content: center;
+} 
+
+.long-talk-left {
+  padding-top: 70px;
+}
+
+.bottom-contents {
+  width: 100%;
+  margin-bottom: 100px;
+  text-align: center;
+}
+
+.arrow {
+  color: gray;
+  font-size: 80px;
+}
+
+.bottom-content-message {
+  font-size: 20px;
+  margin: 10px 0 30px;
+}
+
+.practice-link {
+  text-align: center;
+}
+
+.practice-link > a { 
+  color: #FFF;
+  font-size: 20px;
+  text-decoration: none;
+  background-color: black;
+  padding: 20px 50px;
+  border: none;
+}
+
+.practice-link > a:hover {
+  opacity: 0.6;
+}
+
+/* プラクティス */
+.main-box {
+  width: 300px;
+  margin: 0 auto;
+}
+
+.img-box {
+  width: 610px;
+  height: 180px;
+}
+
+img {
+  vertical-align: bottom;
+}
+
+#main {
+  width: 600px;
+  height: 200px;
+  margin-bottom: 8px;
+}
+
+/* タイマー */
+.timer-box {
+  margin: 20px auto;
+  width: 500px;
+  text-align: center;
+  background: rgb(240, 213, 164);
+  padding: 15px;
+  margin-bottom: 100px;
+}
+
+#timer {
+  background: #FFF;
+  height: 60px;
+  line-height: 60px;
+  font-size: 35px;
+  margin-bottom: 15px;
+}
+
+.btn {
+  width: 100px;
+  height: 45px;
+  line-height: 45px;
+  background: orange;
+  font-weight: bold;
+  cursor: pointer;
+  user-select: none;
+}
+
+.btn:hover {
+  background-color: rgb(253, 211, 132);
+}
+
+.controls {
+  display: flex;
+  justify-content: space-between;
+}
+
+.inactive {
+  background-color:  rgb(253, 211, 132);
+  opacity: 0.5;
+}
+
+.hidden {
+  display: none;
+}
+
+/* クエスチョンリスト */
+.question-lists {
+  width: 100%;
+  padding: 50px 10%;
+}
+
+.question-lists > h1 {
+  width: 300px;
+  height: 40px;
+  color: #FFF;
+  text-align: center;
+  line-height: 40px;
+  background-color: black;
+  border: none;
+  margin: 0 auto 50px;
+}
+
+.question-list {
+  width: 600px;
+  font-size: 18px;
+  padding: 0 20px;
+  margin: 0 auto;
+  margin-bottom: 10px;
+}
+
+/* フッター */
+footer {
+  width: 100%;
+  height: 50px;
+  text-align: center;
+  background-color: rgb(12, 12, 12);
+}
+
+footer > h2 {
+  color: #FFF;
+  margin: 15px auto;
+}
+

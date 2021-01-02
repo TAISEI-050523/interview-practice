@@ -1,0 +1,45 @@
+<mxfile host="65bd71144e" modified="2020-12-31T07:42:05.698Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.52.1 Chrome/83.0.4103.122 Electron/9.3.5 Safari/537.36" etag="Fz_tmhyLCAW4lrxTw11V" version="13.10.0" type="embed" pages="2">
+    <diagram id="EDrclNXtlFVQZ16v2RHI" name="Page-1">
+        <mxGraphModel dx="705" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="6" value="" style="group;" parent="1" vertex="1" connectable="0">
+                    <mxGeometry y="80" width="610" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=none;strokeColor=none;" parent="6" vertex="1">
+                    <mxGeometry width="610" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="将来、どのようなエンジニアになりたいですか？" style="shape=mxgraph.basic.roundRectCallout;dx=111;dy=20;size=36.17;boundedLbl=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=3;fontColor=#1A1A1A;fontSize=20;align=center;fontStyle=0" parent="6" vertex="1">
+                    <mxGeometry x="38.125" y="5" width="552.8125" height="150" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="Jxzsd53KMu2ycjAnmRdD" name="Page-2">
+        <mxGraphModel dx="705" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+            <root>
+                <mxCell id="JO--bNEmoREoaYlfrtQU-0"/>
+                <mxCell id="JO--bNEmoREoaYlfrtQU-1" parent="JO--bNEmoREoaYlfrtQU-0"/>
+                <mxCell id="pxwLXzWhT3Y99wdp87Vv-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=none;strokeColor=none;" parent="JO--bNEmoREoaYlfrtQU-1" vertex="1">
+                    <mxGeometry x="30" y="110" width="290" height="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="------------------------------&#10;------------------------------&#10;--------------------------------&#10;-----------------------------" style="shape=mxgraph.basic.roundRectCallout;dx=15;dy=25;size=36.17;boundedLbl=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=3;fontColor=#1A1A1A;fontSize=20;align=center;fontStyle=0" parent="JO--bNEmoREoaYlfrtQU-1" vertex="1">
+                    <mxGeometry x="80.00297972292526" y="130.005" width="217.25437243283412" height="121.875" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="" style="group" parent="JO--bNEmoREoaYlfrtQU-1" vertex="1" connectable="0">
+                    <mxGeometry x="0.8546463895919061" y="118.125" width="280.0627057661674" height="213.745" as="geometry"/>
+                </mxCell>
+                <mxCell id="gXpUwtBFGSKID-aAW50x-0" value="-----------------------------&#10;--------------------------------&#10;-----------------------------" style="shape=mxgraph.basic.roundRectCallout;dx=15;dy=25;size=36.17;boundedLbl=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=3;fontColor=#1A1A1A;fontSize=20;align=center;fontStyle=0" parent="4" vertex="1">
+                    <mxGeometry width="217.25437243283412" height="121.875" as="geometry"/>
+                </mxCell>
+                <mxCell id="1" value="----------------------------&#10;-----------------------------&#10;-------------------------------&#10;---------------------------" style="shape=mxgraph.basic.roundRectCallout;dx=18.6;dy=31;size=36.17;boundedLbl=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=3;fontColor=#1A1A1A;fontSize=20;align=center;fontStyle=0" parent="4" vertex="1">
+                    <mxGeometry x="21.14166666666665" y="55.94" width="217.25437243283412" height="121.875" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="----------------------------&#10;--------------------------------&#10;-------------------------------&#10;-------------------------" style="shape=mxgraph.basic.roundRectCallout;dx=18.6;dy=31;size=36.17;boundedLbl=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=3;fontColor=#1A1A1A;fontSize=20;align=center;fontStyle=0" parent="4" vertex="1">
+                    <mxGeometry x="62.80833333333332" y="91.87" width="217.25437243283412" height="121.875" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

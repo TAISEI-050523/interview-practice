@@ -1,7 +1,7 @@
 # 🕴Interview practice（面接対策アプリ）🕴
 <img width="600" alt="top-page" src="https://github.com/TAISEI-050523/interview-practice/blob/main/top_page.png">
 
-## 🌐URL
+## 🌐 URL
  https://github.com/TAISEI-050523/interview-practice.git  
  
 # 📗 概 要

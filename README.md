@@ -2,7 +2,7 @@
 <img width="600" alt="top-page" src="https://github.com/TAISEI-050523/interview-practice/blob/main/top_page.png">
 
 ## 🌐 URL
- https://github.com/TAISEI-050523/interview-practice.git  
+ https://taisei-050523.github.io/self_introduction/ 
  
 # 📅 製作期間
   JavaScriptの学習も含めて５日間
